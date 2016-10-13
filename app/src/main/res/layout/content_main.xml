@@ -56,16 +56,19 @@
                     android:layout_width="wrap_content"
                     android:layout_height="100dp"
                     android:layout_weight="1"
+                    android:src="@drawable/ic_account_balance_black_24dp"
                     android:background="#d96459"/>
                 <ImageButton
                     android:layout_width="wrap_content"
                     android:layout_height="100dp"
                     android:layout_weight="1"
-                    android:background="#8c4646"/>
+                    android:background="#8c4646"
+                    android:src="@drawable/ic_image_black_24dp"/>
                 <ImageButton
                     android:layout_width="wrap_content"
                     android:layout_height="100dp"
                     android:layout_weight="1"
+                    android:src="@drawable/ic_picture_as_pdf_black_24dp"
                     android:background="#1ABC9C"/>
             </LinearLayout>
             <LinearLayout
