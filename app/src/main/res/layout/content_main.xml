@@ -82,14 +82,16 @@
                 android:orientation="horizontal">
                 <ImageButton
                     android:layout_width="wrap_content"
-                    android:layout_height="100dp"
+                    android:layout_height="160dp"
                     android:layout_weight="1"
-                    android:background="#E74C3C"/>
+                    android:background="#E74C3C"
+                    android:src="@drawable/ic_web_black_24dp"/>
                 <ImageButton
                     android:layout_width="wrap_content"
-                    android:layout_height="100dp"
+                    android:layout_height="160dp"
                     android:layout_weight="1"
-                    android:background="#1ABC9C"/>
+                    android:background="#1ABC9C"
+                    android:src="@drawable/ic_web_black_24dp"/>
             </LinearLayout>
             <LinearLayout
                 android:layout_width="fill_parent"
