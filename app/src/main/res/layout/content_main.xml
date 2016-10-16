@@ -107,16 +107,6 @@
                     android:layout_height="100dp"
                     android:layout_weight="1"
                     android:background="#6BB18C"/>
-                <ImageButton
-                    android:layout_width="wrap_content"
-                    android:layout_height="100dp"
-                    android:layout_weight="1"
-                    android:background="#DC626F"/>
-                <ImageButton
-                    android:layout_width="wrap_content"
-                    android:layout_height="100dp"
-                    android:layout_weight="1"
-                    android:background="#f2ae72"/>
             </LinearLayout>
             <LinearLayout
                 android:layout_width="fill_parent"
@@ -126,17 +116,12 @@
                     android:layout_width="wrap_content"
                     android:layout_height="100dp"
                     android:layout_weight="1"
-                    android:background="#f2ae72"/>
-                <ImageButton
-                    android:layout_width="wrap_content"
-                    android:layout_height="100dp"
-                    android:layout_weight="1"
-                    android:background="#f2ae72"/>
-                <ImageButton
-                    android:layout_width="wrap_content"
-                    android:layout_height="100dp"
-                    android:layout_weight="1"
                     android:background="#DC626F"/>
+                <ImageButton
+                    android:layout_width="wrap_content"
+                    android:layout_height="100dp"
+                    android:layout_weight="1"
+                    android:background="#f2ae72"/>
             </LinearLayout>
         </LinearLayout>
 
