@@ -112,7 +112,7 @@
                     android:layout_height="160dp"
                     android:layout_weight="1"
                     android:background="#6BB18C"
-                    android:src="@drawable/ios7timer"
+                    android:src="@drawable/ic_cake_black_24dp"
                     android:id="@+id/imageButton" />
             </LinearLayout>
             <LinearLayout
