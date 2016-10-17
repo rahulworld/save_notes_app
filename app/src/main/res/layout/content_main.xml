@@ -104,8 +104,7 @@
                     android:layout_height="160dp"
                     android:layout_weight="1"
                     android:background="#EF9688"
-                    android:src="@drawable/ios7videocam"
-                    android:o
+                    android:src="@drawable/ic_videocam_black_24dp"
                     android:id="@+id/imageButton2" />
 
                 <ImageButton
