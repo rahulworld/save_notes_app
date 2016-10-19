@@ -30,17 +30,18 @@
                 <ImageButton
                     android:layout_width="wrap_content"
                     android:layout_height="160dp"
-                    android:layout_weight="1"
+                    android:layout_weight="1.02"
                     android:src="@drawable/ic_contacts_black_24dp"
                     android:background="#588c7e"
                     />
+
                 <ImageButton
                     android:layout_width="wrap_content"
                     android:layout_height="160dp"
                     android:layout_weight="1"
                     android:background="#f2e394"
                     android:src="@drawable/ic_mail_black_24dp"
-                    />
+                    android:id="@+id/imageButton4" />
             </LinearLayout>
             <LinearLayout
                 android:layout_width="fill_parent"
@@ -52,12 +53,14 @@
                     android:layout_weight="1"
                     android:src="@drawable/ic_account_balance_wallet_black_24dp"
                     android:background="#d96459"/>
+
                 <ImageButton
                     android:layout_width="wrap_content"
                     android:layout_height="160dp"
                     android:layout_weight="1"
                     android:background="#8c4646"
-                    android:src="@drawable/ic_image_black_24dp"/>
+                    android:src="@drawable/ic_image_black_24dp"
+                    android:id="@+id/imageButton5" />
             </LinearLayout>
             <LinearLayout
                 android:layout_width="fill_parent"
@@ -86,13 +89,14 @@
                     android:layout_weight="1"
                     android:background="#E74C3C"
                     android:src="@drawable/ic_http_black_24dp"/>
+
                 <ImageButton
                     android:layout_width="wrap_content"
                     android:layout_height="160dp"
                     android:layout_weight="1"
                     android:background="#1ABC9C"
                     android:src="@drawable/ic_schedule_black_24dp"
-                    />
+                    android:id="@+id/imageButton3" />
             </LinearLayout>
             <LinearLayout
                 android:layout_width="fill_parent"

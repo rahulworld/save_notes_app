@@ -4,5 +4,50 @@
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
+
     <string name="action_settings">Settings</string>
+
+    <string name="action_log_out">Log out</string>
+    <string name="settings_title">Chat Settings</string>
+    <string name="search">Search</string>
+    <string name="select_background">Select background</string>
+    <string name="background_default">default</string>
+    <string name="background_no_wall">no_wall</string>
+    <string name="enter_send">Enter_send</string>
+    <string name="id">id</string>
+    <string name="no_internet_connection">Internet Connection Not Available!!</string>
+    <string name="updated_successfully">updated successfully!</string>
+    <string name="content">content</string>
+    <string name="not_found">Not Found</string>
+    <string name="nothing_up_matches_your_query">Nothing Up that matches your Query</string>
+    <string name="nothing_down_matches_your_query">Nothing Down that matches your Query</string>
+
+    <!-- Strings for Using Enter as Send Preference and Speech Output-->
+    <string name="settings_speechPreference_label">Speech Output</string>
+    <string name="settings_enterPreference_label">Enter As Send</string>
+    <string name="setting_mic_input">Use mic for input</string>
+    <string name="setting_mic_key" translatable="false">Mic_input</string>
+    <string name="settings_enterPreference_key" translatable="false">Enter_send</string>
+    <string name="setting_mic_off">Disabled</string>
+    <string name="settings_speechPreference_key" translatable="false">Speech_output</string>
+    <string name="settings_enterPreference_summaryOff">Disabled</string>
+    <string name="setting_mic_on">Enabled</string>
+    <string name="settings_enterPreference_summaryOn">Enabled</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="speech_prompt">Say something&#8230;</string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+    <string name="tap_on_mic">Tap on mic to speak</string>
+
+    <!--Error Messages-->
+    <string name="error_crop_not_supported">Sorry - your device doesn\'t support the crop action!</string>
+    <string name="error_occurred_try_again">An error occurred. please try again!</string>
+    <!--Material Dialog-->
+    <string name="dialog_action_complete">Complete Action Using</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="pass_validation_text">Enter a combination of at least six characters, containing lower- and uppercase letters and numbers</string>
+    <string name="log_in">Log in</string>
+    <string name="field_cannot_be_empty">This field cannot be empty</string>
 </resources>
