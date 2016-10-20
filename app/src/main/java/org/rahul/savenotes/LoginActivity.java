@@ -8,13 +8,6 @@ import android.support.design.widget.TextInputLayout;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.Button;
 import android.widget.Toast;
-
-import org.rahul.savenotes.helper.Constant;
-import org.rahul.savenotes.helper.CredentialHelper;
-import org.rahul.savenotes.helper.PrefManager;
-import org.rahul.savenotes.rest.ClientBuilder;
-import org.rahul.savenotes.rest.model.LoginResponse;
-
 import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.OnClick;

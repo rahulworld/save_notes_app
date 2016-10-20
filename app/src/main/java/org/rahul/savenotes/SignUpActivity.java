@@ -10,9 +10,6 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
 
-import org.rahul.savenotes.helper.CredentialHelper;
-import org.rahul.savenotes.rest.ClientBuilder;
-import org.rahul.savenotes.rest.model.SignUpResponse;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
