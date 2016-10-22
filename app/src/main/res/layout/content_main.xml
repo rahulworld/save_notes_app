@@ -137,7 +137,5 @@
                     android:src="@drawable/ic_event_black_24dp"/>
             </LinearLayout>
         </LinearLayout>
-
     </ScrollView>
-
 </LinearLayout>
