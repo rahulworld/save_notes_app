@@ -11,7 +11,39 @@
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:id="@+id/etEmailName"
-            />
+            android:text="Email" />
+        <EditText
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/etEmailPerson"
+            android:text="Person's Name" />
+        <EditText
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/etEmailMobile"
+            android:text="Person's Number" />
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <EditText
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/etEmailDesignation"
+                android:text="Designation"
+                android:layout_weight="1"/>
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/btEmailSave"
+                android:text="Save"/>
+        </LinearLayout>
     </LinearLayout>
+    <ListView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/lvEmails">
+
+    </ListView>
 
 </LinearLayout>
